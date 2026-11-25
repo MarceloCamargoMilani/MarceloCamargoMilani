@@ -6,7 +6,8 @@ Atualmente, estou desenvolvendo minhas habilidades na área de programação e t
 
 💻 Tecnologias e conhecimentos
 
-- C – Conhecimentos em lógica de programação.
+- <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/b52b686c-2841-47ca-8740-70c6de51becc" />
+C – Conhecimentos em lógica de programação.
 - PHP – Desenvolvimento e programação web.
 - HTML – Estruturação de páginas web.
 - Banco de Dados – Modelagem e manipulação de dados.
